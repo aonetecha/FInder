@@ -7,7 +7,7 @@ echo
 
 
 echo "                     ~FINDER~ "                    
-echo "                   :5GGGGGGGY.    ~777??^ "        
+echo "                    :5GGGGGGGY.   ~777??^ "        
 echo "                    JGGGGGGGGG?  ^Y7!~~:?G! "      
 echo "                    ~GGGGGGGGP~ ^5^!    ^G5 "       
 echo "              .^7??7~~?5PPP5?:  Y!:7    JBJ "       
@@ -80,6 +80,11 @@ echo
   read -p "Enter Dictory: " d
 echo
 read -p "Enter File extension (txt) :" f4
+find "$d" -type f -name "*.$f4"
+read
+else
+echo
+read -p "Enter File extension (txt) :" f4
 echo
 read -p "Search File Current Directory (.) Over The Computer (/) : " f5
 find "$f5" -type f -name "*.$f4"
@@ -100,6 +105,7 @@ then
   read
 else
 read -p "Enter File Permissions (777): " f7
+echo
 read -p "Search File Current Directory (.) Over The Computer (/) : " f8
 find "$f8" -type f -perm "$f7"
 read
