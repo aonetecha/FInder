@@ -9,7 +9,7 @@ echo
 echo "                     ~FINDER~ "                    
 echo "                   :5GGGGGGGY.    ~777??^ "        
 echo "                    JGGGGGGGGG?  ^Y7!~~:?G! "      
-echo "                    ~GGGGGGGGP~ ^5^!~.. ^G5 "       
+echo "                    ~GGGGGGGGP~ ^5^!    ^G5 "       
 echo "              .^7??7~~?5PPP5?:  Y!:7    JBJ "       
 echo "            .75GGGGGG5~ .:.     Y7    :YBY.                    version - 1.0"       
 echo "           !PGGGGGPGGGGJ.       :J?!7YP57                Founder - Anindya Ghoshal"        
@@ -27,6 +27,9 @@ echo
 select find in "Search File" "Search Directtory" Quit; do
 
 case $find in
+
+#File
+########################################################################################################################################
 
 "Search File")
 clear
@@ -349,7 +352,8 @@ done
 
 
 
-
+#DIR
+#########################################################################################################################################
 "Search Directtory") 
 clear
 
@@ -404,21 +408,16 @@ clear
 echo -n "ENTER->"
 read
 ;;
-
 exit)
 exit
 ;;
-
 esac
 done
-
-
-
 ;;
 
+#exit
 Quit)
-break
+exit
 ;;
-
 esac
 done
