@@ -25,7 +25,6 @@ cd finder
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/aonetecha/)
-[![YouTube](https://img.shields.io:/youtube/channel/subscribers/UCPNhwkJ4zc3FXGn-Rba6Hvg?style=social)](https://www.youtube.com/channel/UCPNhwkJ4zc3FXGn-Rba6Hvg)
 
 
 
