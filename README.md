@@ -23,13 +23,14 @@ cd finder
 ![pic3](https://user-images.githubusercontent.com/85815644/152761618-7a543dfa-813d-453f-b274-59e39b58d329.png)
 
 
+## Authors
+
+- [@anindyaghoshal](https://www.youtube.com/channel/UCPNhwkJ4zc3FXGn-Rba6Hvg)
+-
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/aonetecha/)
 
 
-## Authors
-
-- [@anindyaghoshal](https://www.youtube.com/channel/UCPNhwkJ4zc3FXGn-Rba6Hvg)
 
 
 
