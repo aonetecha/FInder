@@ -9,10 +9,7 @@
 ```bash
 git clone git@github.com:aonetecha/finder.git
 cd finder
-```
-<<<<<<< HEAD
-    
-=======
+```    
 
 ## Usage
 ```bash
@@ -37,9 +34,3 @@ cd finder
 
 [MIT](https://github.com/aonetecha/finder/blob/main/LICENSE)
 
-
-
-
-
-    
->>>>>>> 819cf5917f6b3216fdc7988ccf738d2f26bab0da
